@@ -397,3 +397,22 @@ a.lb-close {	top: -22px;	position: absolute;	right: 40px;}
 	.nav {	margin-top: 0px;	}
 	.team-wrp-list h4 {  font-size: 26px;		margin: 0px 0px 15px;}
 }
+
+@media screen and ( max-height: 699px ) {
+	.ri-arc {		height: 1710vh !important;	}
+	.ri-interface {		height: 435vh !important;	}
+	.ri-applications {		height: 440vh !important;}
+	.ri-team {		height: 150vh !important;	}
+	.ri-footer {		display: block;		padding: 50px 0px; overflow:hidden;	}
+	.cpy-rht {		margin: -55px 0px 0px;	}
+}
+
+@media screen and ( max-height: 720px ) {
+	.ri-introduce {			min-height: 140vh !important;}
+	.ri-arc {		height: 1850vh !important;	}
+	.ri-interface {		height: 490vh !important;	}
+	.ri-applications {		height: 490vh !important;}
+	.ri-team {		height: 170vh !important;	}
+	.ri-footer {		display: block;		padding: 50px 0px; overflow:hidden;	}
+	.cpy-rht {		margin: -55px 0px 0px;	}
+}

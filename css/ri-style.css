@@ -409,9 +409,9 @@ a.lb-close {	top: -22px;	position: absolute;	right: 40px;}
 
 @media screen and ( max-height: 720px ) {
 	.ri-introduce {			min-height: 140vh !important;}
-	.ri-arc {		height: 1850vh !important;	}
-	.ri-interface {		height: 490vh !important;	}
-	.ri-applications {		height: 490vh !important;}
+	.ri-arc {		height: 1720vh !important;	}
+	.ri-interface {		height: 450vh !important;	}
+	.ri-applications {		height: 450vh !important;}
 	.ri-team {		height: 170vh !important;	}
 	.ri-footer {		display: block;		padding: 50px 0px; overflow:hidden;	}
 	.cpy-rht {		margin: -55px 0px 0px;	}
